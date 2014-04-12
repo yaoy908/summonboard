@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AppDelegate" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAAAAACAAQAAAEAAAAAAAAAAAAg=</HashCode>
+      <FileName>d:\Program Files\cocos2d-2.0-x-2.0.4\cocos2d-2.0-x-2.0.4\samples\summonboard\Classes\AppDelegate.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FloorLayer" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAQAQAIAAAAAAAAAAAIAAAFgAAAAAAA=</HashCode>
+      <FileName>d:\Program Files\cocos2d-2.0-x-2.0.4\cocos2d-2.0-x-2.0.4\samples\summonboard\Classes\GameScene.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RouteLayer" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BBBAQAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAABgAA=</HashCode>
+      <FileName>d:\Program Files\cocos2d-2.0-x-2.0.4\cocos2d-2.0-x-2.0.4\samples\summonboard\Classes\GameScene.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Unit" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAYAAAAAAEABAAAQAAAAAAAAAAQAA=</HashCode>
+      <FileName>d:\Program Files\cocos2d-2.0-x-2.0.4\cocos2d-2.0-x-2.0.4\samples\summonboard\Classes\GameScene.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnitsLayer" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAgSAAAAAEAEAAAAgIAwgICAAgAAAAAAAA=</HashCode>
+      <FileName>d:\Program Files\cocos2d-2.0-x-2.0.4\cocos2d-2.0-x-2.0.4\samples\summonboard\Classes\GameScene.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MapLayer" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAAQAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>d:\Program Files\cocos2d-2.0-x-2.0.4\cocos2d-2.0-x-2.0.4\samples\summonboard\Classes\GameScene.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TopUILayer" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAEAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>d:\Program Files\cocos2d-2.0-x-2.0.4\cocos2d-2.0-x-2.0.4\samples\summonboard\Classes\GameScene.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameScene" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAABACAAAAAAAUAAAAIAgAABgAAIAMABAAAAAAAA=</HashCode>
+      <FileName>d:\Program Files\cocos2d-2.0-x-2.0.4\cocos2d-2.0-x-2.0.4\samples\summonboard\Classes\GameScene.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XY" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAQAAgAAAAAAAAABgAAAAAgA=</HashCode>
+      <FileName>Total.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CCAttackInfo" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIBAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Total.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MonsterData" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAgIAAAAAAAAAAAAAFAACQAABgYBAIAgA=</HashCode>
+      <FileName>PlayerData.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerData" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAQAAAAAAABAAAIALAAIAAAAAAAEICAAACAAAAAQA=</HashCode>
+      <FileName>PlayerData.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RoundData" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAIAAAAAAAAAIAQAAAABAAAQA=</HashCode>
+      <FileName>PlayerData.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DungeonData" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAACIEAAAAAAAAAAAIAAAAAIAAEIAAAAAAAAAAAA=</HashCode>
+      <FileName>PlayerData.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DungeonSystem" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DungeonSystem.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BattleSystem" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAEAAAAQAAA2EAAAAAEAAAAAAABAAAAA=</HashCode>
+      <FileName>BattleSystem.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimationSystem" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>AnimationSystem.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameSceneTouchDelegate" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAEAAAAAAAAAgAABAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameSceneTouchDelegate.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="monsterAttribute" Collapsed="true">
+    <Position X="5.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAEAAAAAAAAEAAAAIKAAAAAAAAAAAAA=</HashCode>
+      <FileName>Total.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="attackDirection" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAEACAAAAAAAAAAAAAAAAAAAAAgAAQAAAAAAAAAAA=</HashCode>
+      <FileName>Total.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="attackType" Collapsed="true">
+    <Position X="2.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAACAAIAAAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>Total.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="gameState" Collapsed="true">
+    <Position X="4" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAEAACAAAAAAAAAAgAEAAAAAAAE=</HashCode>
+      <FileName>Total.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Microsoft YaHei" Size="9" />
+</ClassDiagram>
